@@ -1,4 +1,4 @@
-# Make-up - Eye Shadow 
+# EYE SHADOW PRODUCT PAGE
 
 A simple product page, using HTML, CSS and JavaScript. A collection of make-up products(eye shadows), with a brand filtering feature.
 
